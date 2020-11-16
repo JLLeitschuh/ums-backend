@@ -49,7 +49,7 @@
 		<release.arguments/>
 						
 		<!-- Version properties -->
-		<spring.version>4.1.0.RELEASE</spring.version>
+		<spring.version>5.3.1</spring.version>
 		<spring.test.version>4.0.0.RELEASE</spring.test.version>
 		<spring.security.version>3.2.5.RELEASE</spring.security.version>
         <spring.ws.version>2.1.2.RELEASE</spring.ws.version>
